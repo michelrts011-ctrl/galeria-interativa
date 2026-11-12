@@ -4,6 +4,14 @@ const fotos = [
     { arquivo: "imagens/foto2.jpg", legenda: "Segunda fotografia" },
     { arquivo: "imagens/foto3.jpg", legenda: "Terceira fotografia" },
     { arquivo: "imagens/foto4.jpg", legenda: "Quarta fotografia" }
+    { arquivo: "imagens/foto1.jpg", legenda: "" },
+    { arquivo: "imagens/foto2.jpg", legenda: "" },
+    { arquivo: "imagens/foto3.jpg", legenda: "" },
+    { arquivo: "imagens/foto4.jpg", legenda: "" }
+    { arquivo: "imagens/foto1.jpg", legenda: "" },
+    { arquivo: "imagens/foto2.jpg", legenda: "" },
+    { arquivo: "imagens/foto3.jpg", legenda: "" },
+    { arquivo: "imagens/foto4.jpg", legenda: "" }
   ];
   
   // 2. Guarda a posição da foto que está sendo exibida.
