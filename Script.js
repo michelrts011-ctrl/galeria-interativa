@@ -3,11 +3,11 @@ const fotos = [
     { arquivo: "imagens/foto1.jpg", legenda: "Singapura" },
     { arquivo: "imagens/foto2.jpg", legenda: "Paddock" },
     { arquivo: "imagens/foto3.jpg", legenda: "Preparação do carro" },
-    { arquivo: "imagens/foto4.jpg", legenda: "Max Verstappen" }
+    { arquivo: "imagens/foto4.jpg", legenda: "Max Verstappen" },
     { arquivo: "imagens/foto5.jpg", legenda: "Treino Livre" },
     { arquivo: "imagens/foto6.jpg", legenda: "Classificação" },
     { arquivo: "imagens/foto7.jpg", legenda: "Largada" },
-    { arquivo: "imagens/foto8.jpg", legenda: "Verstappen Lidera a corrida" }
+    { arquivo: "imagens/foto8.jpg", legenda: "Verstappen Lidera a corrida" },
     { arquivo: "imagens/foto9.jpg", legenda: "Pit Stop" },
     { arquivo: "imagens/foto10.jpg", legenda: "Verstappen recebe a bandeirada" },
     { arquivo: "imagens/foto11.jpg", legenda: "E ganha no GP de Singapura" },
